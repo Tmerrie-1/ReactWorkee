@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>Hello Babyyon</h1>, document.getElementById("rootee"))
